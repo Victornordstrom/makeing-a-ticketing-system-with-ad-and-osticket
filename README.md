@@ -29,7 +29,8 @@ Two networked Virtual Machines communicating via internal network (`adlab.local`
 
 Promoted Windows Server 2022 to Domain Controller and created organizational structure:
 
-![AD OU Structure](./screenshots/01-ad-ou-structure.png)
+![AD OU Structure] <img width="965" height="596" alt="ous" src="https://github.com/user-attachments/assets/0680bd1e-048f-4012-96db-733482858c6f" />
+
 
 **Organizational Units Created:**
 - `Helpdesk` OU containing:
