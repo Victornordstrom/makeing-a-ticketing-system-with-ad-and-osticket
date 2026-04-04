@@ -77,6 +77,8 @@ Installed and configured IIS with PHP 8.2 support:
   - `extension=mysqli` (database)
   - `extension=gd` (image processing)
   - `extension=intl`, `extension=mbstring`, `extension=xml`
+    
+<img width="1018" height="656" alt="Screenshot From 2026-04-03 15-24-45" src="https://github.com/user-attachments/assets/faaa4654-a293-487e-907d-36ace373cc6e" />
 
 ### Step 2: MySQL Database Setup
 
@@ -99,7 +101,7 @@ FLUSH PRIVILEGES;
 
 Downloaded and deployed osTicket 1.18.3:
 
-![osTicket Admin Panel](./screenshots/04-osticket-admin.png)
+![osTicket Admin Panel]()
 
 **Installation Steps:**
 - Extracted osTicket to `C:\inetpub\wwwroot\osticket\`
