@@ -29,7 +29,7 @@ Two networked Virtual Machines communicating via internal network (`adlab.local`
 
 Promoted Windows Server 2022 to Domain Controller and created organizational structure:
 
-![AD OU Structure] <img width="965" height="596" alt="ous" src="https://github.com/user-attachments/assets/0680bd1e-048f-4012-96db-733482858c6f" />
+ <img width="965" height="596" alt="ous" src="https://github.com/user-attachments/assets/0680bd1e-048f-4012-96db-733482858c6f" />
 
 
 **Organizational Units Created:**
@@ -42,7 +42,7 @@ Promoted Windows Server 2022 to Domain Controller and created organizational str
 
 Created `ldap bind` user in Users container for osTicket LDAP queries:
 
-![LDAP Bind User Properties](./screenshots/02-ldap-bind-user.png)
+<img width="965" height="596" alt="923-Screenshot From 2026-04-03 13-21-16" src="https://github.com/user-attachments/assets/7dfbfd34-69f2-431a-b255-665c6ba0cc17" />
 
 **Account Configuration:**
 - Username: `ldap bind`
