@@ -19,18 +19,7 @@ This project successfully demonstrates a **complete enterprise ticketing system*
 
 Two networked Virtual Machines communicating via internal network (`adlab.local`):
 
-┌─────────────────────────────────┐     ┌─────────────────────────────────┐
-│   AD Domain Controller (DC01)   │     │      osTicket Server            │
-│     192.168.10.10               │     │      192.168.10.20              │
-├─────────────────────────────────┤     ├─────────────────────────────────┤
-│ • Windows Server 2022           │     │ • Windows Server 2022           │
-│ • Active Directory              │     │ • IIS Web Server                │
-│ • LDAP Service (Port 389)       │────▶│ • PHP 8.2                       │
-│ • DNS                           │     │ • MySQL 8.0                     │
-│ • User Accounts                 │     │ • osTicket 1.18.3               │
-│ • Security Groups               │     │ • LDAP Authentication Plugin    │
-└─────────────────────────────────┘     └─────────────────────────────────┘
-
+#
 
 ---
 
