@@ -27,7 +27,6 @@ Two networked Virtual Machines communicating via internal network (`adlab.local`
 
 
 #
-## Architecture
 
 Two networked Virtual Machines communicating via internal network (`adlab.local`):
 
