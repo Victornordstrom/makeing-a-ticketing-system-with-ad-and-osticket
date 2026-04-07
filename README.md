@@ -136,7 +136,39 @@ Downloaded and installed the **LDAP Authentication and Lookup** plugin:
 
 | LDAP Plugin Installed | |
 |---|---|
-| <img width="500" height="350" alt="LDAP Plugin Screenshot 1" src="https://github.com/user-attachments/assets/8fcf0ae4-964c-44e7-a949-c4d4971e3dfd" /> | <img width="500" height="350" alt="LDAP Plugin Screenshot 2" src="https://github.com/user-attachments/assets/2460ab8a-b435-4768-addb-ea3cdb8c7878" /> |
+| <img width="500" height="350" alt="LDAP Plugin Screenshot 1" src="https://github.com/user-attachments/assets/8fcf0ae4-964c-44e7-a949-c4d4971e3dfd" /> | <img width="500" height="350" alt="LDAP Plugin Screenshot 2" src="https://github.com/user-attachments/assets/2460ab8a-b435-4768-addb-ea3cdb8c7878" /> | 
+
+## osTicket Ticket Deployment
+
+---
+
+### Step 1: Created Help Topics
+Created help topics to categorize incoming tickets:
+
+<img width="500" height="350" alt="Help Topics" src="" />
+
+---
+
+### Step 2: Created Ticket as End User
+Submitted a test ticket from the end user portal:
+
+<img width="500" height="350" alt="End User Ticket Submission" src="" />
+
+---
+
+### Step 3: Agent Picks Up Ticket
+Logged in as helpdesk agent to view and claim the ticket:
+
+<img width="500" height="350" alt="Agent Ticket View" src="" />
+
+---
+
+### Step 4: Ticket Resolution
+Agent resolved the ticket and closed it:
+
+<img width="500" height="350" alt="Ticket Resolved" src="" />
+
+---
 
 
 
