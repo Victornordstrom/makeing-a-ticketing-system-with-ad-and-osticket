@@ -125,13 +125,11 @@ osTicket Admin Panel
 ## LDAP and Active Directory Integration
 
 ### Step 1: Installed LDAP Authentication Plugin
+Downloaded and installed the **LDAP Authentication and Lookup** plugin:
 
-Downloaded and installed LDAP Authentication and Lookup plugin:
-
-LDAP Plugin Installed
-
-<img width="500" height="350" alt="image" src="https://github.com/user-attachments/assets/8fcf0ae4-964c-44e7-a949-c4d4971e3dfd" />     <img width="500" height="350" alt="image" src="https://github.com/user-attachments/assets/2460ab8a-b435-4768-addb-ea3cdb8c7878" />
-
+| LDAP Plugin Installed | |
+|---|---|
+| <img width="500" height="350" alt="LDAP Plugin Screenshot 1" src="https://github.com/user-attachments/assets/8fcf0ae4-964c-44e7-a949-c4d4971e3dfd" /> | <img width="500" height="350" alt="LDAP Plugin Screenshot 2" src="https://github.com/user-attachments/assets/2460ab8a-b435-4768-addb-ea3cdb8c7878" /> |
 
 
 
