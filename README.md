@@ -37,8 +37,7 @@ Two networked Virtual Machines communicating via internal network (`adlab.local`
 |---|---|
 | <img ... /> | <img ... /> |
 
-## IP Addressing
-...
+
 
 ---
 
