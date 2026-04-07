@@ -110,7 +110,7 @@ Downloaded and deployed osTicket 1.18.3:
 
 osTicket Admin Panel 
 
-<img width="972" height="682" alt="image" src="https://github.com/user-attachments/assets/8a6f6365-3cca-4d5d-b342-aa33faf2178a" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/c510de6f-6d83-4cf1-911b-557892e01443" />
 
 
 **Installation Steps:**
