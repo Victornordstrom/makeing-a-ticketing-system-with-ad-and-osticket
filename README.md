@@ -35,7 +35,8 @@ Two networked Virtual Machines communicating via internal network (`adlab.local`
 
 | AD-DC → osTicket | osTicket → AD-DC |
 |---|---|
-| <img ... /> | <img ... /> |
+| <img width="300" height="180" alt="image" src="https://github.com/user-attachments/assets/7f202543-71a2-4457-8f96-671a596e12e9" />
+ | <img width="300" height="180" alt="image" src="https://github.com/user-attachments/assets/a2d6364c-05b3-47e0-8c84-689a9daba3cd" /> |
 
 
 
