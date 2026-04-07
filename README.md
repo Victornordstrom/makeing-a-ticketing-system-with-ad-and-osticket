@@ -23,8 +23,7 @@ Two networked Virtual Machines communicating via internal network (`adlab.local`
 
 | ● AD-DC: 192.168.10.10 | ● osTicket: 192.168.10.20 |
 |---|---|
-| <img width="422" height="360" alt="AD-DC Screenshot" src="https://github.com/user-attachments/assets/d134ccbc-793c-43df-9971-4a7e67bc360a" /> |
-| <img width="450" height="330" alt="osTicket Screenshot" src="https://github.com/user-attachments/assets/98b35ea1-eab1-47db-a7ef-0f7a8a067cfe" /> |
+| <img width="422" height="360" alt="AD-DC Screenshot" src="https://github.com/user-attachments/assets/d134ccbc-793c-43df-9971-4a7e67bc360a" /> | <img width="450" height="330" alt="osTicket Screenshot" src="https://github.com/user-attachments/assets/98b35ea1-eab1-47db-a7ef-0f7a8a067cfe" /> |
 
 
 #
