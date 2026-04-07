@@ -128,8 +128,10 @@ osTicket Admin Panel
 
 Downloaded and installed LDAP Authentication and Lookup plugin:
 
-![LDAP Plugin Installed](./screenshots/05-ldap-plugin.png)
+LDAP Plugin Installed
 
-**Plugin Details:**
-- Version: 0.6.2
-- Status:
+<img width="500" height="350" alt="image" src="https://github.com/user-attachments/assets/8fcf0ae4-964c-44e7-a949-c4d4971e3dfd" />
+
+
+
+
