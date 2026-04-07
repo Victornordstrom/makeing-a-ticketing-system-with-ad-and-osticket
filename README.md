@@ -108,7 +108,8 @@ FLUSH PRIVILEGES;
 
 Downloaded and deployed osTicket 1.18.3:
 
-![osTicket Admin Panel]()
+![osTicket Admin Panel] <img width="972" height="682" alt="image" src="https://github.com/user-attachments/assets/8a6f6365-3cca-4d5d-b342-aa33faf2178a" />
+
 
 **Installation Steps:**
 - Extracted osTicket to `C:\inetpub\wwwroot\osticket\`
