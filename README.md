@@ -27,6 +27,18 @@ Two networked Virtual Machines communicating via internal network (`adlab.local`
 
 
 #
+## Architecture
+
+Two networked Virtual Machines communicating via internal network (`adlab.local`):
+
+### Network Connectivity
+
+| AD-DC → osTicket | osTicket → AD-DC |
+|---|---|
+| <img ... /> | <img ... /> |
+
+## IP Addressing
+...
 
 ---
 
