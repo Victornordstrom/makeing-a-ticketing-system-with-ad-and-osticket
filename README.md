@@ -21,8 +21,9 @@ Two networked Virtual Machines communicating via internal network (`adlab.local`
 
 Ip addressing:
 
-AD-DC: 192.168.10.10
-osTciket: 192.168.10.20
+● AD-DC: 192.168.10.10
+
+● osTciket: 192.168.10.20
 
 #
 
