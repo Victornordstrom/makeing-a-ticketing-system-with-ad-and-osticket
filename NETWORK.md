@@ -1,3 +1,5 @@
+## Network architexure
+
 ## Overview
 
 This lab simulates an enterprise helpdesk environment using two Windows Server 2022
